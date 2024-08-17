@@ -50,7 +50,7 @@
 ### 9. Demo Hazırlama
 - **Görev:** Uygulamanıza ait yukarıda bahsedilen 3 ekrana ait müşteriye sunulmak üzere bir demo hazırlayın. (DEMONSTRATION)
     - **Demo Bağlantısı:** Bu dosyada yer alan bağlantıdan Figma üzerinden oluşturulmuş login, logout ve signup süreçlerini kapsayan demoya ulaşabilirsiniz. [DEMO LINK.txt](9.MOCKUPS%20(DEMO)/DEMO%20LINK.txt)
-    - **Şema:** Demo sürecini takip edebileceğiniz şemadır. [ŞEMA.png](9.MOCKUPS%20(DEMO)/%C5%9EEMA.png)
+- **Şema:** Demo sürecini takip edebileceğiniz şemadır. [ŞEMA.png](9.MOCKUPS%20(DEMO)/%C5%9EEMA.png)
 
 ### 10. Migrate ve API Uygulaması
 - **Görev:** Mevcut bir uygulamayı kullanan 50K’lık müşteri kitlesini yeni uygulamaya migrate etmek için bir aksiyon planı ve detaylı çözüm yöntemi oluşturun.
@@ -65,5 +65,7 @@
 ### 12. Veri Madenciliği ve SQL Kullanımı
 - **Görev:** Kayıtlı müşteri veri tabanınızda veri madenciliği yaparak önemli KPI'ları belirleyin. Ayrıca, SQL kullanarak bu verileri analiz edin ve özet raporlar oluşturun.
 - **Araçlar:** Microsoft SQL veya PostgreSQL kullanarak veri analizi yapın. (DATA MINING & SQL USAGE)
-    - **Veri Madenciliği Raporları:** Kayıtlı müşteri verileri üzerinden elde edilen KPI'lar ve analiz raporları. [Data Mining & SQL Reports](12.DATA%20MINING%20%26%20SQL%20USAGE)
+    **Sorgu ve Sonuç:** Bu dosyada, sorgunun SQL dosyası ve sorgunun sonuçlarını içeren rapor bulunmaktadır.
+      - **Sorgu ve Sonuç:** [DATA MINING & SQL QUERY.pdf](12.DATA%20MINING%20&%20SQL%20USING/DATA%20MINING%20&%20SQL%20QUERY.pdf)
+      - **SQL Dosyası:** [Sorgu.sql](12.DATA%20MINING%20&%20SQL%20USING/Sorgu.sql)
 
