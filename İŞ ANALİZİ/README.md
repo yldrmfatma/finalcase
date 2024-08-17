@@ -3,16 +3,29 @@
 ### 1. Pazar Araştırması ve One Pager Sunumu
 - **Görev:** Yerelde ve globalde bu alanda yapılan mobil uygulamaları inceleyip pazar araştırması yaparak müşteriye sunabileceğiniz özellikleri belirlemek.
 - **Sunum:** Şirketinizi diğerlerinden ayıracak özellikleri içeren ve teklifinizi destekleyen One Pager bir PowerPoint sunumu hazırlayın. (BENCHMARKING)
+    - [DRIVERA BENCHMARKING.pdf](İŞ%20ANALİZİ/1.BENCMARKING/DRIVERA%20BENCHMARKING.pdf)
+      PDF formatında sunulmuştur.
+    
+    - [DRIVERA BENCHMARKING.png](İŞ%20ANALİZİ/1.BENCMARKING/DRIVERA%20BENCHMARKING.png)
+      PNG formatında sunulmuştur.
 
 ### 2. Temel Özellikler ve Ek Geliştirmeler
 - **Görev:** Müşterimizin zaman ve maliyet kısıtlarını göz önünde bulundurarak uygulamada olması gereken temel özellikleri değerlendirin ve sunabileceğiniz ek geliştirmeler arasında seçim yapın.
-- **Temel Özellikler:** Uygulama için temel oluşturacak 10 özellik belirleyin.
+- **Temel Özellikler:** Uygulamanın temel özelliklerini aşağıdaki dosyadan ulaşabilirsiniz:
+    - [Temel Özellikler](İŞ%20ANALİZİ/2.APPLICATION%20FEATURES/Temel%20Özellikler)
+- **İnovatif Özellikler:** Bizi farklı kılacak özellikler ise detaylı bir şekilde açıklanmıştır:
+    - [İnovatif Özellikler](İŞ%20ANALİZİ/2.APPLICATION%20FEATURES/%C4%B0novatif%20%C3%96zellikler)
 - **Ek Geliştirmeler:** Sonraki süreçte yapılabilecek ekstra 5 geliştirme belirleyin.
 - **Önceliklendirme:** İhtiyaçları önceliklendirip sıralayın. (KAPSAM)
+
 
 ### 3. MVP ve Backlog Yönetimi
 - **Görev:** Belirlediğiniz özelliklere göre 3 MVP (Minimum Value Product) tanımlayın ve her MVP için 10’ar adet Backlog Item’a bağlı minimum 2’şer task belirleyin.
 - **Yöntem:** Bu iş yüklerini önceliklendirip MVP’ler arasında bölüştürün. (Planning Poker gibi uygulamalar kullanılabilir.) (BACKLOG MANAGEMENT)
+
+    - **Backlog Yönetimi Dokümanı:** Backlogların nasıl oluşturulduğunu ve yönetildiğini açıklayan bir kaynak dosyasıdır. [BACKLOG MANAGEMENT.pdf](İŞ%20ANALİZİ/3.BACKLOGS%20MANAGEMENT/BACKLOG%20MANAGEMENT.pdf)
+    - **Epic Backlog:** Uygulama özelliklerinin backloglarını içeren dosyadır. [EPIC BACKLOG.pdf](İŞ%20ANALİZİ/3.BACKLOGS%20MANAGEMENT/EPIC%20BACKLOG.pdf)
+    - **Product Backlog:** Belirlenen backlog item'ları ve task'ları içeren Excel dosyasıdır. [PRODUCT BACKLOG.xlsx](İŞ%20ANALİZİ/3.BACKLOGS%20MANAGEMENT/PRODUCT%20BACKLOG.xlsx)
 
 ### 4. Zaman Yönetimi
 - **Görev:** Projenizi toplam 9 aylık bir süreçte Eylül 2024 – Haziran 2025 tarihleri arasında teslim etmek için bir zaman çizelgesi hazırlayın.
