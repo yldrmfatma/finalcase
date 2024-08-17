@@ -6,5 +6,5 @@ Proje kapsamında, **İş Analizi** ve **Test** süreçleri ayrı dosyalar halin
 
 Projenin her iki bölümü için de detaylı README dosyaları hazırlanmıştır. Bu dosyalar, ilgili süreçlerin anlaşılmasını ve proje içeriğinin incelenmesini kolaylaştıracaktır. Aşağıdaki bağlantıları kullanarak ilgili bölümlere erişebilirsiniz:
 
-- [İş Analizi](İŞ%20ANALİZİ/README.md)
-- [Test](TEST/README.md)
+- [İş Analizi](İŞ%20ANALİZİ)
+- [Test](TEST) 
