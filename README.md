@@ -4,7 +4,7 @@ Bu proje, **Patika.dev & FMSS Bilişim Teknoloji İş Analizi ve Test Bootcamp B
 
 Proje kapsamında, **İş Analizi** ve **Test** süreçleri ayrı dosyalar halinde detaylandırılmıştır. İş analizi kısmında, gereksinimlerin belirlenmesi, kullanıcı hikayeleri, süreç haritaları ve diğer iş analizi çıktıları yer almaktadır. Test kısmında ise, test senaryoları, test planları ve gerçekleştirilen testlerin sonuçları gibi detaylar bulunmaktadır.
 
-Her bir dosyaya aşağıdaki bağlantılardan ulaşabilirsiniz:
+Projenin her iki bölümü için de detaylı README dosyaları hazırlanmıştır. Bu dosyalar, ilgili süreçlerin anlaşılmasını ve proje içeriğinin incelenmesini kolaylaştıracaktır. Aşağıdaki bağlantıları kullanarak ilgili bölümlere erişebilirsiniz:
 
 - [İş Analizi](İŞ%20ANALİZİ/README.md)
 - [Test](TEST/README.md)
