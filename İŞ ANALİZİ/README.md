@@ -18,7 +18,7 @@
 ### 3. MVP ve Backlog Yönetimi
 - **Görev:** Belirlediğiniz özelliklere göre 3 MVP (Minimum Value Product) tanımlayın ve her MVP için 10’ar adet Backlog Item’a bağlı minimum 2’şer task belirleyin.
 - **Yöntem:** Bu iş yüklerini önceliklendirip MVP’ler arasında bölüştürün. (Planning Poker gibi uygulamalar kullanılabilir.) (BACKLOG MANAGEMENT)
-    - **Backlog Yönetimi Dokümanı:** Backlogların nasıl oluşturulduğunu ve yönetildiğini açıklayan bir kaynak dosyasıdır. [BACKLOG MANAGEMENT.pdf](3.BACKLOGS%20MANAGEMENT/BACKLOG%20MANAGEMENT%.pdf)
+    - **Backlog Yönetimi Dokümanı:** Backlogların nasıl oluşturulduğunu ve yönetildiğini açıklayan bir kaynak dosyasıdır. [BACKLOG MANAGEMENT.pdf](3.BACKLOGS%20MANAGEMENT/BACKLOG%20MANAGEMENT.pdf)
     - **Epic Backlog:** Uygulama özelliklerinin backloglarını içeren dosyadır. [EPIC BACKLOG.pdf](3.BACKLOGS%20MANAGEMENT/EPIC%20BACKLOG.pdf)
     - **Product Backlog:** Belirlenen backlog item'ları ve task'ları içeren Excel dosyasıdır. [PRODUCT BACKLOG.xlsx](3.BACKLOGS%20MANAGEMENT/PRODUCT%20BACKLOG.xlsx)
 
