@@ -39,7 +39,7 @@
 ### 7. Mockup ve UI/UX Tasarımları
 - **Görev:** Login, logout ve signup süreçleri için JustInMind veya Balsamic gibi uygulamalar kullanarak prototip oluşturun.
 - **Kontrol:** UI-UX prensipleri açısından tasarımlarınızın uygun olduğundan emin olun. (MOCK UP-UI/UX)
-    - **Mockup ve UI/UX Dokümanları:** Login, logout ve signup ekranlarının mockup'ları bu dosyada yer almaktadır. [UI/UX MOCKUPS](7.MOCKUP%20-%20UI%26UX%20PRINCIPLES)
+    - **Mockup ve UI/UX Dokümanları:** Login, logout ve signup ekranlarının mockup'ları bu dosyada yer almaktadır. [UI/UX MOCKUPS](7.MOCKUPS)
 
 ### 8. Analiz Dokümanı ve Tablo Oluşturma
 - **Görev:** Backend mobil Developer’a teslim etmek üzere SIGN UP sürecine ait analiz dokümanı oluşturun.
@@ -49,8 +49,8 @@
 
 ### 9. Demo Hazırlama
 - **Görev:** Uygulamanıza ait yukarıda bahsedilen 3 ekrana ait müşteriye sunulmak üzere bir demo hazırlayın. (DEMONSTRATION)
-    - **Demo Bağlantısı:** Bu dosyada yer alan bağlantıdan Figma üzerinden oluşturulmuş login, logout ve signup süreçlerini kapsayan demoya ulaşabilirsiniz. [DEMO LINK.txt](9.MOCKUPS%20(DEMO)/DEMO%20LINK.txt)
-- **Şema:** Demo sürecini takip edebileceğiniz şemadır. [ŞEMA.png](9.MOCKUPS%20(DEMO)/%C5%9EEMA.png)
+    - **Demo Bağlantısı:** Bu dosyada yer alan bağlantıdan Figma üzerinden oluşturulmuş login, logout ve signup süreçlerini kapsayan demoya ulaşabilirsiniz. [DEMO LINK.txt](9.DEMO/DEMO%20LINK.txt)
+- **Şema:** Demo sürecini takip edebileceğiniz şemadır. [ŞEMA.png](9.DEMO/ŞEMA.png)
 
 ### 10. Migrate ve API Uygulaması
 - **Görev:** Mevcut bir uygulamayı kullanan 50K’lık müşteri kitlesini yeni uygulamaya migrate etmek için bir aksiyon planı ve detaylı çözüm yöntemi oluşturun.
